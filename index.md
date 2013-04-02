@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Little Pig!
-tagline: xyz blog
---
+tagline: xyz's blog
+---
 {% include JB/setup %}
 
 {% for post in site.posts %}

@@ -37,13 +37,12 @@ Here's a sample "posts list".
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-<ul class="posts">
   {% for post in site.posts %}
+	<div>
 	<p><h2><a href="{{post.url}}">{{post.title}}</a></h2>{{ post.date | date_to_string }}</p>
-	<p>{{post.content}}</p>
 	<p><a href="/blog{{post.url}}">Read more ...</a></p>
+	</div>
   {% endfor %}
-</ul>
 
 
 ## To-Do

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Little Pig!
+title: HOME
 tagline: xyz's blog
 ---
 {% include JB/setup %}

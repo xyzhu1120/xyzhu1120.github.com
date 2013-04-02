@@ -4,4 +4,6 @@ title: "About"
 description: ""
 ---
 {% include JB/setup %}
-Xinyu Zhu from Shanghai Jiao Tong University
+This is a my personal blog for some notes about cs or anything else.
+
+I am from Shanghai Jiao Tong University and this is my <a href="www.tcloud.sjtu.edu.cn/users/xyzhu">personal webpage</a>

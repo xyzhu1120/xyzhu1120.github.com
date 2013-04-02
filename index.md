@@ -39,8 +39,8 @@ Here's a sample "posts list".
 </ul>
 <ul class="posts">
   {% for post in site.posts %}
-	<p><h2><a href="/blog{{post.url}}">{{post.title}}</a></h2>{{ post.date | date_to_string }}</p>
-	<p>{{post.content | strip_html | truncatewords: 55}}</P>
+	<p><h2><a href="{{post.url}}">{{post.title}}</a></h2>{{ post.date | date_to_string }}</p>
+	<p>{{post.content}}</p>
 	<p><a href="/blog{{post.url}}">Read more ...</a></p>
   {% endfor %}
 </ul>

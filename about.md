@@ -6,4 +6,4 @@ description: ""
 {% include JB/setup %}
 This is a my personal blog for some notes about cs or anything else.
 
-I am from Shanghai Jiao Tong University and this is my <a href="www.tcloud.sjtu.edu.cn/users/xyzhu">personal webpage</a>
+I am from Shanghai Jiao Tong University and this is my <a href="http://www.tcloud.sjtu.edu.cn/users/xyzhu">personal webpage</a>

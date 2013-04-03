@@ -69,3 +69,7 @@ html, body {
 	color:#FFF;
 }
 	
+.post {
+	border-top:1px solid #ffffff
+	padding:15px 0
+}

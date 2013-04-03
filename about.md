@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "About"
-description: ""
+header: About this Website
+group: navigation
 ---
 {% include JB/setup %}
 This is a my personal blog for some notes about cs or anything else.

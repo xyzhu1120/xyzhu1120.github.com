@@ -7,9 +7,7 @@ tagline: xyz's blog
 
 {% for post in site.posts %}
   <div class="post">
-  <div class="post-header-line">
   <p><h2><a href="{{ BASE_PATH }}{{post.url}}">{{post.title}}</a></h2>{{ post.date | date_to_string }}</p>
-  </div>
   <p>{{ post.content | strip_html | truncatewords: 55}}</p>
   <p><a href="{{ BASE_PATH }}{{post.url}}">Read more ...</a></p>
   </div>

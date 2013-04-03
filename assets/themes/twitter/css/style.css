@@ -70,6 +70,9 @@ html, body {
 }
 	
 .post {
-	border-top:1px solid #ffffff;
-	padding:15px 0;
+	border-bottom:1px solid #ffffff;
+	padding:8px 0;
+}
+.post-header-line{
+	line-height: 1.6;
 }

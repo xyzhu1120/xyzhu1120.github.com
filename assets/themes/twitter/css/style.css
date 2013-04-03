@@ -74,5 +74,6 @@ html, body {
 	padding:8px 0;
 }
 .post-header-line{
+	margin: 0 0 1em;
 	line-height: 1.6;
 }

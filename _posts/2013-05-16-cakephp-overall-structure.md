@@ -6,4 +6,4 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-![alt cakephp](/images/cakephp-request.png)
+![Alt cakephp](/images/cakephp-request.png)

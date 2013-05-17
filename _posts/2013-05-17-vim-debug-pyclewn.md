@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用vim debug: Pyclewn 使用"
+title: "debug with vim and gdb: Pyclewn"
 description: ""
 category: 
 tags: []

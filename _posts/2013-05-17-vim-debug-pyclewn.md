@@ -36,3 +36,5 @@ tags: []
 具体可以参考
 	
  	:help Pyclewn
+
+![alt screen shot](/images/pyclewn-vim.png)
